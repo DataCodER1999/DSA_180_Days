@@ -29,6 +29,6 @@ In this corner of the coding universe, I'm curating a diverse collection of proj
 
 ## Let's Connect!
 
-This GitHub journey is not just about me—it's about building connections, sharing knowledge, and learning from each other. Feel free to connect with me on [LinkedIn](linkedin.com/in/nitin-malhotra-a0b841214), where we can exchange ideas and collaborate on exciting projects.
+This GitHub journey is not just about me—it's about building connections, sharing knowledge, and learning from each other. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nitin-malhotra-a0b841214), where we can exchange ideas and collaborate on exciting projects.
 
 Thank you for stopping by my GitHub space. Together, let's embrace the endless possibilities of code and innovation. Happy coding! 😄👨‍💻🌟
