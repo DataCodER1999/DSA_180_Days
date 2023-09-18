@@ -1,6 +1,6 @@
 # Welcome to My DSA Coding Journey! 🚀
 
-Hey there, I'm Nitin Malhotra, a passionate software developer and coding enthusiast on a thrilling 180-day journey of mastering Data Structures and Algorithms (DSA) with the fantastic [CoderArmy](https://www.youtube.com/c/CoderArmy) community. 
+Hey there, I'm Nitin Malhotra, a passionate software developer and coding enthusiast on a thrilling 180-day journey of mastering Data Structures and Algorithms (DSA) with the fantastic [CoderArmy](https://www.youtube.com/@CoderArmy9/featured) community. 
 
 🌟 **About Me:**
 - 💻 Currently pursuing my Computer Science degree.
