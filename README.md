@@ -1,6 +1,6 @@
-# Welcome to My GitHub Journey! 🚀
+# Welcome to My DSA Coding Journey! 🚀
 
-Hey there, I'm Nitin Malhotra, a passionate software developer and coding enthusiast on a thrilling 180-day journey of mastering Data Structures and Algorithms (DSA) with the fantastic [CoderArmy](https://www.youtube.com/c/CoderArmy) community. 
+Hey there, I'm Nitin Malhotra, a passionate software developer and coding enthusiast on a thrilling 180-day journey of mastering Data Structures and Algorithms (DSA) with the fantastic [CoderArmy](https://www.youtube.com/@CoderArmy9/featured) community. 
 
 🌟 **About Me:**
 - 💻 Currently pursuing my Computer Science degree.
@@ -29,6 +29,6 @@ In this corner of the coding universe, I'm curating a diverse collection of proj
 
 ## Let's Connect!
 
-This GitHub journey is not just about me—it's about building connections, sharing knowledge, and learning from each other. Feel free to connect with me on [LinkedIn](linkedin.com/in/nitin-malhotra-a0b841214), where we can exchange ideas and collaborate on exciting projects.
+This GitHub journey is not just about me—it's about building connections, sharing knowledge, and learning from each other. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nitin-malhotra-a0b841214), where we can exchange ideas and collaborate on exciting projects.
 
 Thank you for stopping by my GitHub space. Together, let's embrace the endless possibilities of code and innovation. Happy coding! 😄👨‍💻🌟
