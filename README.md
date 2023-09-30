@@ -6,7 +6,6 @@ Hey there, I'm Nitin Malhotra, a passionate software developer and coding enthus
 - 💻 Currently pursuing my Computer Science degree.
 - 🌐 Exploring the vast world of software development.
 - 📚 Lifelong learner and avid reader.
-- 🎮 Gamer in my free time.
 
 ## What You'll Find Here
 
@@ -16,11 +15,6 @@ In this corner of the coding universe, I'm curating a diverse collection of proj
 - 🧠 DSA practice code and solutions.
 - 📖 Comprehensive study notes to help you grasp complex concepts.
 - 🔍 In-depth analysis of common algorithms and problem-solving strategies.
-
-### Projects and Contributions:
-- 🚀 Exciting coding projects, from web apps to End to End AI projects (ML - DL).
-- 🌐 Contributions to open-source projects that I'm passionate about.
-- 📝 Tutorials and guides to help you build your own cool projects.
 
 ### Learning Resources:
 - 📚 A growing library of my favorite coding books and online courses.
